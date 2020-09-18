@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Auron91",
+	"description": "this is my first json package",
+	"keywords": ["freecodecamp","json","package","node-npm"],
+	"license": "MIT",
+	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
